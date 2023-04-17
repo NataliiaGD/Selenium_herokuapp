@@ -1,0 +1,13 @@
+navigation/NavigationTests.class
+dropdown/DropdownsTests.class
+hover/HoverTests.class
+waiter/WaiterTests.class
+alerts/AlertsTests.class
+forgotPassword/ForgotPasswordTests.class
+file/fileUploadTests.class
+contextMenu/contextMenuTests.class
+javascript/JavaScriptTests.class
+keys/KeysTests.class
+base/BaseTests.class
+frame/FrameTests.class
+login/LoginTests.class
